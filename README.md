@@ -4,7 +4,7 @@
 
 This project was made with the [React JS](https://reactjs.org/) framework for the 2021 'Rona Round-Up.
 
-Dictionary-Game can be found hosted at [dictionary-game.netlify.app]() for at least a short while.
+Dictionary-Game can be found hosted at dictionary-game.netlify.app for at least a short while.
 
 ## Installation
 
