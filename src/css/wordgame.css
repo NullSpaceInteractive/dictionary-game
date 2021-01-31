@@ -1,0 +1,28 @@
+.guess-correct{
+    color: lightgreen;
+}
+
+.guess-incorrect{
+    color: indianred;
+}
+
+.same-line{
+    display: inline;
+}
+
+.same-line button{
+    margin-left: 20px;
+    width: 60px;
+    height: 50px;
+    text-align: center;
+}
+
+#guess {
+    outline: none;
+    resize: none;
+    overflow: auto;
+    width: 20vh;
+    height: 5vh;
+    margin-top: 10vh;
+    text-align: center;
+}
