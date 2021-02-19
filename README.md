@@ -1,10 +1,6 @@
 # Dictionary-Game
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7f53d869-005f-45f2-a4d6-42cf6906e0ee/deploy-status)](https://app.netlify.com/sites/dictionary-game/deploys)
-
 This project was made with the [React JS](https://reactjs.org/) framework for the 2021 'Rona Round-Up.
-
-Dictionary-Game can be found hosted at [dictionary-game.netlify.app](https://dictionary-game.netlify.app) for at least a short while.
 
 ## Installation
 
